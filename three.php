@@ -5,4 +5,5 @@ class three implements test{
     {
         return !($number % 3);
     }
+
 }
