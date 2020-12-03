@@ -1,12 +1,12 @@
-#backend-solid-challenge
-##Installation
+# backend-solid-challenge
+## Installation
     git clone https://github.com/lipfreitas/backend-solid-challenge
     
-##Usage
-####Run on terminal
+## Usage
+#### Run on terminal
     php challenge.php
     
-####Example output
+#### Example output
     //output example test 1 to 15
     1
     2
