@@ -6,7 +6,7 @@ require ('tester.php');
 
 $tester = new tester(new three(), new five());
 
-for ($i = 1; $i <= 15; $i++){
+for ($i = 1; $i <= 100; $i++){
     $result = $tester->executeTests($i);
     $display = implode('And',$result);
     print $display.PHP_EOL;
