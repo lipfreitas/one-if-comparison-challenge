@@ -1,4 +1,8 @@
 # backend-solid-challenge
+## Original Challenge
+Write a program using Solid, that could iterate a set of numbers, and test if it is a multiple of three and five, then print the name of the divisors instead of the number.
+Using solid principles, with only one If.
+
 ## Installation
     git clone https://github.com/lipfreitas/backend-solid-challenge
     
