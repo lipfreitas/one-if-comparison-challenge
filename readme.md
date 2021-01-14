@@ -4,7 +4,7 @@ Write a program using Solid, that could iterate a set of numbers, and test if it
 Using solid principles, with only one If.
 
 ## Installation
-    git clone https://github.com/lipfreitas/backend-solid-challenge
+    git clone https://github.com/lipfreitas/one-if-comparison-challenge
     
 ## Usage
 #### Run on terminal
